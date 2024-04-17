@@ -1,0 +1,12 @@
+C:\Users\thuyd\OneDrive\Desktop\GiaoDienDijkstra\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\thuyd\OneDrive\Desktop\GiaoDienDijkstra\bin\Debug\WindowsFormsApp2.exe
+C:\Users\thuyd\OneDrive\Desktop\GiaoDienDijkstra\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\thuyd\OneDrive\Desktop\GiaoDienDijkstra\bin\Debug\Guna.UI2.dll
+C:\Users\thuyd\OneDrive\Desktop\GiaoDienDijkstra\obj\Debug\Thiết Kế Giao Diện.csproj.AssemblyReference.cache
+C:\Users\thuyd\OneDrive\Desktop\GiaoDienDijkstra\obj\Debug\DijkstraTest2.Form1.resources
+C:\Users\thuyd\OneDrive\Desktop\GiaoDienDijkstra\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\thuyd\OneDrive\Desktop\GiaoDienDijkstra\obj\Debug\Thiết Kế Giao Diện.csproj.GenerateResource.cache
+C:\Users\thuyd\OneDrive\Desktop\GiaoDienDijkstra\obj\Debug\Thiết Kế Giao Diện.csproj.CoreCompileInputs.cache
+C:\Users\thuyd\OneDrive\Desktop\GiaoDienDijkstra\obj\Debug\Thiết Kế.AD014927.Up2Date
+C:\Users\thuyd\OneDrive\Desktop\GiaoDienDijkstra\obj\Debug\WindowsFormsApp2.exe
+C:\Users\thuyd\OneDrive\Desktop\GiaoDienDijkstra\obj\Debug\WindowsFormsApp2.pdb
